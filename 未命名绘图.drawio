@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-27T06:23:01.027Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="5dEgmbkghkvAcJzn7gC2" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-27T07:21:02.720Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="9ynF2y3Vhb1VkXwl32ld" version="21.8.2" type="github">
   <diagram name="第 1 页" id="vi5O4z4F0Ay6VvC3fiWP">
-    <mxGraphModel dx="327" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="474" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,6 +52,78 @@
         </mxCell>
         <mxCell id="HQJH7odR56O9DyhHU2Db-37" value="麦克风" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="40" width="88.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HQJH7odR56O9DyhHU2Db-58" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="441.31" y="1130" width="320" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="HQJH7odR56O9DyhHU2Db-59" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="461.31" y="1150" width="280" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="HQJH7odR56O9DyhHU2Db-60" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="598.81" y="1140" width="5" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="HQJH7odR56O9DyhHU2Db-61" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1310" width="341.31" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="HQJH7odR56O9DyhHU2Db-62" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="471.31" y="1330" as="sourcePoint" />
+            <mxPoint x="471.31" y="1330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="461.31" y="1420" />
+              <mxPoint x="721.31" y="1420" />
+              <mxPoint x="731.31" y="1330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HQJH7odR56O9DyhHU2Db-66" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="1480" as="sourcePoint" />
+            <mxPoint x="722.81" y="1433" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HQJH7odR56O9DyhHU2Db-67" value="麦克风" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="739" y="1480" width="88.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HQJH7odR56O9DyhHU2Db-68" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="719.81" y="1430" width="3" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="HQJH7odR56O9DyhHU2Db-77" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="521.31" y="710" width="320" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="HQJH7odR56O9DyhHU2Db-78" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="541.31" y="730" width="280" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="HQJH7odR56O9DyhHU2Db-79" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="678.81" y="720" width="5" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="HQJH7odR56O9DyhHU2Db-80" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="890" width="341.31" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="HQJH7odR56O9DyhHU2Db-81" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="551.31" y="910" as="sourcePoint" />
+            <mxPoint x="551.31" y="910" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="541.31" y="1000" />
+              <mxPoint x="801.31" y="1000" />
+              <mxPoint x="811.31" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HQJH7odR56O9DyhHU2Db-82" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="1060" as="sourcePoint" />
+            <mxPoint x="802.81" y="1013" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HQJH7odR56O9DyhHU2Db-83" value="麦克风" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="819" y="1060" width="88.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HQJH7odR56O9DyhHU2Db-84" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="799.81" y="1010" width="3" height="3" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
